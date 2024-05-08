@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "cCYd4cEQf5Lg1aNkNHXGOGzeiEwKVDR1VHYKY34plyk=",
+  "Source": "GrpcCalculatorService",
+  "BasePath": "_content/GrpcCalculatorService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
